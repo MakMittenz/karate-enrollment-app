@@ -225,5 +225,7 @@ Future improvements would include:
 ---
 
 ## Case Study
+### Project Overview
 
+![Project Overview](Karate%20school%20case%20study1%20.pptx.png)
 The complete visual case study is available in the PowerPoint file included in this repository.
